@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Presale Request" max_length="40" name="x_491783_presales_presale_request" sizeclass="4" type="collection">
+        <element label="Approval" max_length="32" name="approval" reference="sys_user" type="reference"/>
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
+        <element label="Assigned Group" max_length="32" name="assigned_group" reference="sys_user_group" type="reference"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_491783_presales_customer" type="reference"/>
         <element label="Duration(Hour/s)" max_length="40" name="duration" type="integer"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -9,6 +13,15 @@
             <element name="request_type"/>
         </index>
         <index name="index2">
+            <element name="approval"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_group"/>
+        </index>
+        <index name="index4">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index5">
             <element name="customer"/>
         </index>
     </element>
