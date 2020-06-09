@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>presales engagement customer</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Wrench">7d65e411db99901037a85608689619dd</icon>
+        <name>customers</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:23:56</sys_created_on>
+        <sys_id>8a65e411db99901037a85608689619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>customers</sys_name>
+        <sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope>
+        <sys_update_name>sys_sg_list_screen_8a65e411db99901037a85608689619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:23:56</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=8a65e411db99901037a85608689619e4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Presales">67132c5ddb59901037a856086896190e</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_sg_list_screen_8a65e411db99901037a85608689619e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>presales engagement customer</description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Wrench">7d65e411db99901037a85608689619dd</icon><name>customers</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 10:23:56</sys_created_on><sys_id>8a65e411db99901037a85608689619e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>customers</sys_name><sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package><sys_policy/><sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope><sys_update_name>sys_sg_list_screen_8a65e411db99901037a85608689619e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-08 10:23:56</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=8a65e411db99901037a85608689619e4"/></record_update>]]></payload>
+        <payload_hash>-1700340379</payload_hash>
+        <record_name>customers</record_name>
+        <reverted_from/>
+        <source>a7132c5ddb59901037a8560868961910</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:23:57</sys_created_on>
+        <sys_id>9e65a811db99901037a8560868961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17293754d320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:23:57</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>1a65a811cc999010ec78e9c8af8dfb84</update_guid>
+        <update_guid_history>1a65a811cc999010ec78e9c8af8dfb84:-1700340379</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:28:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>1b96a1a637584e52a9d4a5036dc43404</sys_id>
+        <sys_metadata>8a65e411db99901037a85608689619e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>customers</sys_name>
+        <sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope>
+        <sys_scope_delete display_value="">594460c63a48481a9a6719a6dcb0fd84</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_8a65e411db99901037a85608689619e4</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_8a65e411db99901037a85608689619e4">9e65a811db99901037a8560868961984</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:28:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

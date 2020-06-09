@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (Request_type)">4665a811db99901037a856086896190c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Request_type)</name>
+        <order/>
+        <parent>0e656811db99901037a85608689619fc</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:23:56</sys_created_on>
+        <sys_id>8265a811db99901037a8560868961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Request_type)</sys_name>
+        <sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8265a811db99901037a8560868961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:23:56</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8265a811db99901037a8560868961910"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Presales">67132c5ddb59901037a856086896190e</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_sg_button_instance_8265a811db99901037a8560868961910</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (Request_type)">4665a811db99901037a856086896190c</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (Request_type)</name><order/><parent>0e656811db99901037a85608689619fc</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 10:23:56</sys_created_on><sys_id>8265a811db99901037a8560868961910</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New (Request_type)</sys_name><sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package><sys_policy/><sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope><sys_update_name>sys_sg_button_instance_8265a811db99901037a8560868961910</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-08 10:23:56</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=8265a811db99901037a8560868961910"/></record_update>]]></payload>
+        <payload_hash>839546917</payload_hash>
+        <record_name>New (Request_type)</record_name>
+        <reverted_from/>
+        <source>a7132c5ddb59901037a8560868961910</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:23:58</sys_created_on>
+        <sys_id>da65a811db99901037a85608689619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17293754f000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:23:58</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>5665a8110c9990103fb6d6a53e29cfa5</update_guid>
+        <update_guid_history>5665a8110c9990103fb6d6a53e29cfa5:839546917</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:30:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>60607c2bdea24c2c98600ebef79e0579</sys_id>
+        <sys_metadata>8265a811db99901037a8560868961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Request_type)</sys_name>
+        <sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope>
+        <sys_scope_delete display_value="">594460c63a48481a9a6719a6dcb0fd84</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_8265a811db99901037a8560868961910</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_8265a811db99901037a8560868961910">da65a811db99901037a85608689619a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:30:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

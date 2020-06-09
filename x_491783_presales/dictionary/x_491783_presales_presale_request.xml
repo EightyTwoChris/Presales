@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Presale Request" max_length="40" name="x_491783_presales_presale_request" sizeclass="4" type="collection">
+        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_491783_presales_customer" type="reference"/>
+        <element label="Duration(Hour/s)" max_length="40" name="duration" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For" max_length="40" name="requested_for" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Request_Type" max_length="32" name="request_type" reference="x_491783_presales_request_type" type="reference"/>
+        <index name="index">
+            <element name="request_type"/>
+        </index>
+        <index name="index2">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

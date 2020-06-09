@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Presale Request)">4665a811db99901037a856086896194f</button>
+        <button_parent_table>x_491783_presales_presale_request</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>requested_for</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Requested For</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>requested_for</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:23:57</sys_created_on>
+        <sys_id>4e65a811db99901037a8560868961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested For</sys_name>
+        <sys_package display_value="Presales" source="x_491783_presales">67132c5ddb59901037a856086896190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Presales">67132c5ddb59901037a856086896190e</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_4e65a811db99901037a8560868961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:23:57</sys_updated_on>
+        <table_name>x_491783_presales_presale_request</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e65a811db99901037a8560868961955"/>
+</record_update>
